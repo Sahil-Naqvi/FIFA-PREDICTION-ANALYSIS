@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 14 21:57:40 2018
-
-@author: mrthl
-"""
-
 from bs4 import BeautifulSoup
 import bs4
 import csv

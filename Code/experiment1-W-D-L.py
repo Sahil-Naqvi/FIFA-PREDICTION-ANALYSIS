@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 22 11:31:51 2018
-
-@author: mrthl
-"""
 import pandas as pd
 import gc
 

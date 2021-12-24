@@ -11,7 +11,7 @@ encode_name = 'result_ex'+exp_name
 filename = "data/data_ex"+exp_name+".csv"
 
 # Read data
-data = pd.read_csv(filename, encoding='utf-8')
+data = pd.read_csv(filename)
 
 #data_x, data_y, x_train, x_test, y_train, y_test = loadData(data)
 
